@@ -1,0 +1,3 @@
+Requirements
+Power BI Desktop
+Microsoft Excel
